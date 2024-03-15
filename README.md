@@ -1,2 +1,1 @@
-![image](https://github.com/Elekekic/Elekekic/assets/157897660/55c1981c-3854-4aca-8491-5f863ad7ad1a)
-
+![banner 3](https://github.com/Elekekic/Elekekic/assets/157897660/619b3386-8920-4b69-90c4-c3d067eaca06)
