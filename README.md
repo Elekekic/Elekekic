@@ -3,7 +3,7 @@
 
 ### Hello ! I'm Elena 👋
 I'm a 19 y/o junior full-stack developer based in Italy, and I'm focusing to make small steps everyday in order to improve my skills
-- 📫 **connect with me**: <a href="https://www.linkedin.com/in/elena-kekic" target="_blank">  My linkedin </a>
+- 📫 **connect with me**: <a href="https://www.linkedin.com/in/elena-kekic-" target="_blank">  My linkedin </a>
 
 <br>
 
