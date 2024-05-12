@@ -1,4 +1,5 @@
-![Banner](https://github.com/Elekekic/Elekekic/assets/157897660/f160d2ae-f6a5-4441-abbe-d6dd4ae2b6fb)
+
+![Banner](https://github.com/Elekekic/Elekekic/assets/157897660/f04d0733-3572-4106-9a73-61c39db2b2a3)
 
 ### Hello ! I'm Elena 👋
 I'm a 19 y/o junior full-stack developer based in Italy, and I'm focusing to make small steps everyday in order to improve my skills
