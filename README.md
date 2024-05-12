@@ -1,5 +1,8 @@
-### Hello ! I'm Elena 👋
 
+
+![BANNER DARK THEME](https://github.com/Elekekic/Elekekic/assets/157897660/89a1cca3-91da-42ce-8c38-4208c0f61879)
+
+### Hello ! I'm Elena 👋
 I'm a 19 y/o junior full-stack developer based in Italy, and I'm focusing to make small steps everyday in order to improve my skills
 
 <br>
