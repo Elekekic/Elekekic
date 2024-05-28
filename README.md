@@ -17,4 +17,4 @@ I'm a 19 y/o junior full-stack developer from Italy, currently focusing to impro
 
 ###
 
-
+![lala](https://komarev.com/ghpvc/?Elekekic&color=red)
