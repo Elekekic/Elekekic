@@ -1,5 +1,3 @@
-![Banner](https://github.com/Elekekic/Elekekic/assets/157897660/f04d0733-3572-4106-9a73-61c39db2b2a3)
-
 # Hello ! I'm Elena 👋🏼
 I'm a 19 y/o junior full-stack developer from Italy, currently focusing to improve my skills and stay always tuned with the news in the tech world. You can find me on <a href="https://www.linkedin.com/in/elena-kekic-" target="_blank">Linkedin</a>  or  <a href="http://discordapp.com/users/865697545552658502" target="_blank">Discord</a>.
 ###
