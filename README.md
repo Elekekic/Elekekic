@@ -1,5 +1,15 @@
-# Hello ! I'm Elena 👋🏼
-I'm a 19 y/o junior full-stack developer from Italy, currently focusing to improve my skills and stay always tuned with the news in the tech world. You can find me on <a href="https://www.linkedin.com/in/elena-kekic-" target="_blank">Linkedin</a>  or  <a href="http://discordapp.com/users/865697545552658502" target="_blank">Discord</a>.
+<h3> Hello! I'm Elena <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="23" height="23">
+</picture> </h3>
+
+I'm a 19 y/o junior full-stack developer from Italy. 
+
+Dedicated to improving my skills every day, I strive to grow by at least 1% daily while staying current in the tech world. Learning new languages is also a passion of mine, as it broadens my horizons.
+
+Passionate about experimenting with innovative ideas and bringing them to life in websites, I focus on evolving the UI and UX while maintaining a consistent structure.
+
+You can find me on <a href="https://www.linkedin.com/in/elena-kekic-" target="_blank">Linkedin</a>  or  <a href="http://discordapp.com/users/865697545552658502" target="_blank">Discord</a>.
 ###
 
 ###
