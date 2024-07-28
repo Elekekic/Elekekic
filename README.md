@@ -1,11 +1,15 @@
-<h3> Hello! I'm Elena <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="23" height="23">
-</picture> </h3>
+<h3>
+  <span>Hello! I'm Elena</span> 
+  <picture style="display: inline;">
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="23" height="23">
+  </picture>
+</h3>
 
-I'm a 19 y/o junior full-stack developer from Italy. 
 
-Dedicated to improving my skills every day, I strive to grow by at least 1% daily while staying current in the tech world. Learning new languages is also a passion of mine, as it broadens my horizons.
+I'm a 19 y/o junior full-stack developer from Trieste,Italy. 
+
+Dedicated to improving my skills every day, I strive to progress at least 1% daily while staying current in the tech world. Learning new languages is also a passion of mine, as it broadens my horizons.
 
 Passionate about experimenting with innovative ideas and bringing them to life in websites, I focus on evolving the UI and UX while maintaining a consistent structure.
 
