@@ -1,13 +1,14 @@
-<h1> Hello! I'm Elena ✨</h1>
 
-◜ I'm a 19 y/o junior full-stack developer from Trieste,Italy 🌍◝ 
+![Banner](https://github.com/user-attachments/assets/a5bc2b86-cee3-42dc-a087-ff17360c56c9)
 
-### ⌠ 💌 Some things about me: 
-  ▹ I strive to progress at least 1% daily
+### ⌠ 💌 Some things about me ⌡
+― I'm a 19 y/o junior full-stack developer from Trieste,Italy 🌍
   
-  ▹ Learning new languages (both computer and natural) is also a passion of mine, as it gives me more opportunities wherever i go
+― I strive to progress at least 1% daily
   
-  ▹ Passionate about experimenting with innovative ideas and bringing them to life in websites, right now im trying to learn more about 3d objects, animations and design 
+― **Learning new languages** (both computer and natural) is also a passion of mine, as it gives me more opportunities wherever i go
+  
+― Passionate about experimenting with innovative ideas and bringing them to life in websites, right now im trying to learn more about 3d objects, animations and design 
 
 <br> 
 
