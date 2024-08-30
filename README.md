@@ -3,11 +3,11 @@
 ◜ I'm a 19 y/o junior full-stack developer from Trieste,Italy 🌍◝ 
 
 ### ⌠ 💌 Some things about me: 
-  ▸ I strive to progress at least 1% daily
+  ▹ I strive to progress at least 1% daily
   
-  ▸ Learning new languages (both computer and natural) is also a passion of mine, as it gives me more opportunities wherever i go
+  ▹ Learning new languages (both computer and natural) is also a passion of mine, as it gives me more opportunities wherever i go
   
-  ▸ Passionate about experimenting with innovative ideas and bringing them to life in websites, right now im trying to learn more about 3d objects, animations and design 
+  ▹ Passionate about experimenting with innovative ideas and bringing them to life in websites, right now im trying to learn more about 3d objects, animations and design 
 
 <br> 
 
