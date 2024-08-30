@@ -1,7 +1,7 @@
 
 ![Banner](https://github.com/user-attachments/assets/a5bc2b86-cee3-42dc-a087-ff17360c56c9)
 
-### ⌠ 💌 Some things about me ⌡
+### ⌠ 💌 About me ⌡
 ― I'm a 19 y/o junior full-stack developer from Trieste,Italy 🌍
   
 ― I strive to progress at least 1% daily
