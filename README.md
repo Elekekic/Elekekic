@@ -1,11 +1,4 @@
-<h1>
-  <span>Hello! I'm Elena</span> 
-  <picture style="display: inline;">
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="23" height="23">
-  </picture>
- </h1>
-
+<h1> Hello! I'm Elena ✨</h1>
 
 ◜ I'm a 19 y/o junior full-stack developer from Trieste,Italy 🌍◝ 
 
