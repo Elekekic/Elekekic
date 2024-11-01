@@ -15,7 +15,7 @@
   
 - <a href='https://madebyelena.vercel.app/' target="_blank">Click here</a> to see my portfolio!
 
-- In my free time, I enjoy editing for personal things (because i would love to have also "editor" as one of my titles) 
+- In my free time, I enjoy editing for personal things
 
 <br> 
 
