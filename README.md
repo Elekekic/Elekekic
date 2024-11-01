@@ -15,11 +15,7 @@
   
 - <a href='https://madebyelena.vercel.app/' target="_blank">Click here</a> to see my portfolio!
 
-- In my free time, I enjoy editing for personal things
-
-<br> 
-
-You can find me on <a href="https://www.linkedin.com/in/elena-kekic-" target="_blank">Linkedin</a> | <a href="http://discordapp.com/users/865697545552658502" target="_blank">Discord</a> 
+- You can find me on <a href="https://www.linkedin.com/in/elena-kekic-" target="_blank">Linkedin</a> | <a href="http://discordapp.com/users/865697545552658502" target="_blank">Discord</a> 
 
 
 ### ―― My Githuβ Stαts 🌿 ――
