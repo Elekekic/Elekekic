@@ -19,7 +19,7 @@
 
 <br> 
 
-You can find me on <a href="https://www.linkedin.com/in/elena-kekic-" target="_blank">Linkedin</a> | <a href="http://discordapp.com/users/865697545552658502" target="_blank">Discord</a> | <a href="https://talent.epicode.com/talent/6fddbaf9-0221-4ec6-9ab3-eae1d9b12f50" target="_blank">Epicode Talent Profile</a> 
+You can find me on <a href="https://www.linkedin.com/in/elena-kekic-" target="_blank">Linkedin</a> | <a href="http://discordapp.com/users/865697545552658502" target="_blank">Discord</a> 
 
 
 ### ―― My Githuβ Stαts 🌿 ――
