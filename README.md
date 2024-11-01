@@ -13,7 +13,7 @@
   
 - Passionate about learning new languages, both computer and natural, to broaden my opportunities
   
-- Currently exploring more the 3D objects, animations, and UI & UX worlds
+- <a href='https://madebyelena.vercel.app/' target="_blank">Click here</a> to see my portfolio!
 
 - In my free time, I enjoy editing for personal things (because i would love to have also "editor" as one of my titles) 
 
