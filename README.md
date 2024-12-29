@@ -8,8 +8,6 @@
 </h3>
 
  ### ―― 💌 Aβout mε
-
-- I'm a 19 y/o junior full-stack developer from Trieste,Italy 🌍 and I strive to progress at least 1% daily
   
 - Passionate about learning new languages, both computer and natural, to broaden my opportunities
   
