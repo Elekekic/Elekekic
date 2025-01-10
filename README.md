@@ -7,13 +7,9 @@
   <span> Hi ! I'm Elena Kekic  </span> 
 </h3>
 
- ### ―― 💌 Aβout mε
-  
-- Passionate about learning new languages, both computer and natural, to broaden my opportunities
-  
-- <a href='https://madebyelena.vercel.app/' target="_blank">Click here</a> to see my portfolio!
+Passionate about learning new languages, both computer and natural, to broaden my opportunities <br> <a href='https://madebyelena.vercel.app/' target="_blank">Click here</a> to see my portfolio!
 
-- You can find me on <a href="https://www.linkedin.com/in/elena-kekic-" target="_blank">Linkedin</a> | <a href="http://discordapp.com/users/865697545552658502" target="_blank">Discord</a> 
+You can find me on <a href="https://www.linkedin.com/in/elena-kekic-" target="_blank">Linkedin</a> | <a href="http://discordapp.com/users/865697545552658502" target="_blank">Discord</a> 
 
 
 ### ―― My Githuβ Stαts 🌿 ――
