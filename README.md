@@ -7,7 +7,7 @@
   <span> Hi ! I'm Elena Kekic  </span> 
 </h3>
 
-Motivated to be the greastest version of myself by keeping myself open to new opportunities and topics to learn about <br> 🚧 Portfolio is currently being updated! 🚧
+Motivated to be the greastest version of myself by keeping myself open to new opportunities <br> 🚧 Portfolio is currently being updated! 🚧
 
 You can find me on <a href="https://www.linkedin.com/in/elena-kekic-" target="_blank">Linkedin</a> | <a href="http://discordapp.com/users/865697545552658502" target="_blank">Discord</a> 
 
